@@ -1,0 +1,2 @@
+https://github.com/justmarkham/DAT4/tree/master/notebooks
+http://www.dataschool.io/linear-regression-in-python/
