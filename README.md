@@ -2,6 +2,8 @@
 
 ## Centro Atómico Bariloche - Buenos Aires
 
+[PDF Presentación](https://www.dropbox.com/s/q5tlrm3ajd6w57o/ml-arg.pdf?dl=0)
+
 ### Contenidos
 
 1. Mathematical optimization and symbolic computing
